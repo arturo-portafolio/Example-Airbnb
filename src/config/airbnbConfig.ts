@@ -3,7 +3,7 @@
 
 export const airbnbConfig = {
   telefono: "+52 55 1234 567800",
-  telefonoWhatsApp: "525512345678", // Sin espacios ni símbolos para wa.me
+  telefonoWhatsApp: "52551234567800", // Sin espacios ni símbolos para wa.me
   nombreAlojamiento: "Loft Urbano con Vista Panorámica",
   ciudad: "Ciudad de México",
   descripcionCorta:
